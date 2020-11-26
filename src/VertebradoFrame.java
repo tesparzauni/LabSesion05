@@ -45,7 +45,7 @@ public class VertebradoFrame extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setText("Vertebrados");
+        jLabel1.setText("Vertebrados ...");
 
         jList1.setModel(new javax.swing.AbstractListModel<String>() {
             String[] strings = { "Camello", "Vaca", "Paloma", "Tiburón" };
